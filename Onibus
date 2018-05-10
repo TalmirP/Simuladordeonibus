@@ -1,0 +1,31 @@
+class veiculo{
+    int capacidade;
+    String placa;
+    double velocidade;
+    boolean revisao;
+    int tempo_circulacao;
+    boolean acessibilidade;
+    double velocidade_maxima = 80.0; 
+    double TempoChegada(){
+        linha.getDistEntreParadas();
+        double vMedia = DistEntreParadas/tempoDoVeiculo;
+        
+          
+        }
+        
+    }
+    double tempo_parada(boolean a){
+        passageiro.getcadeirante();
+        parada.gettParada();
+        a = acessibilidade;
+        if (a == true && cadeirante == true){
+            double tParada = tParada + 60;
+    } else{
+        tParada = tParada + 0;
+    }
+       return tParada;
+    }
+}
+/* Talmir Pereira  10724156
+Carolina Galvão  10724135
+Luana dos Santos Pereira 10723687 */
